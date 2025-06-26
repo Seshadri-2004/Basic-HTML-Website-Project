@@ -8,7 +8,7 @@ This is a basic HTML portfolio website without styling.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ### 1. `index.html`
 - Acts as the homepage.
 - Introduces the portfolio briefly.
@@ -29,7 +29,7 @@ This is a basic HTML portfolio website without styling.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Semantic HTML5** structure
 - **Navigation bar** included in all pages
@@ -42,7 +42,7 @@ This is a basic HTML portfolio website without styling.
 
 ---
 
-## 🧪 How to Run in Visual Studio Code
+##  How to Run in Visual Studio Code
 
 1. **Install [Visual Studio Code](https://code.visualstudio.com/)** if you haven’t already.
 
@@ -56,7 +56,7 @@ This is a basic HTML portfolio website without styling.
    - `Open with Live Server` (if you have the **Live Server extension** installed)
    - Or, just right-click and choose **Reveal in File Explorer** → Double-click to open in a browser.
 
-### 🔍 Optional: Install Live Server Extension
+###  Optional: Install Live Server Extension
 
 To get auto-refresh and a better dev experience:
 
@@ -67,7 +67,10 @@ To get auto-refresh and a better dev experience:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Your Name**  
 Feel free to customize this project and use it as a base for your personal portfolio.
+
+# Project URL
+https://roadmap.sh/projects/basic-html-website
