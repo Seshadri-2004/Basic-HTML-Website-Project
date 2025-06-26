@@ -67,9 +67,6 @@ To get auto-refresh and a better dev experience:
 
 ---
 
-## Author
-
-**Your Name**  
 Feel free to customize this project and use it as a base for your personal portfolio.
 
 # Project URL
